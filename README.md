@@ -1,5 +1,5 @@
 # sackydzng.github.io/main.html
-uhh use this link to ENTEER MAIN SITE https://sackydzng.github.com/main.html
+uhh use this link to ENTEER MAIN SITE https://sackydzng.github.io/main.html
 ------------------------------------------
 Ronald Weasley x Harrison Potter 
 ------------------------------------------
