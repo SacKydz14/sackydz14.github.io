@@ -9,38 +9,38 @@
 border-color: white;
 border-width: 4px;  
 border-style: solid;
-font-family: "Lucida Console";
+font-family: "monospace";
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ffffff;
   color: black;
-  font-family: "Lucida Console";
+  font-family: "monospace";
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #ffffff;
   color: #000000;
-  font-family: "Lucida Console";
+  font-family:"monospace";
 }
 h1 {
 border-color: white;
 border-width: 4px;  
 border-style: solid;
-font-family: "Lucida Console";
+font-family: "monospace";
 }
 h2 {
 border-color: white;
 border-width: 3.5px;  
 border-style: solid;
-font-family: "Lucida Console";
+font-family: "monospace";
 }
 h3 {
 border-color: white;
 border-width: 3px;  
 border-style: solid;
 float: left;
-font-family: "Lucida Console";
+font-family: "monospace";
 }
