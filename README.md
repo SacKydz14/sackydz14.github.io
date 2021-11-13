@@ -1,5 +1,5 @@
-# sackydzng.github.io/main.html
-uhh use this link to ENTEER MAIN SITE https://sackydzng.github.io/main.html
+# sackydzng.github.io/
+
 #BEGINNING OF THE WORLD
 <!DOCTYPE HTML>  
 <html>
@@ -29,7 +29,7 @@ SacKydzNG
 </font>
 </body>
 </html>
-#END OF THE WORLD
+#END OF THE WORLD <br>
 ------------------------------------------
 Ronald Weasley x Harrison Potter 
 ------------------------------------------
