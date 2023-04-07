@@ -23,16 +23,10 @@
   color: #000000;
 }
 
-header{
-  background-color: #581845;
-  height: 60px;
-  width: 100%;
-
-}
-
-li{
-  display: inline-block;
-  padding: 15px 30px;
+h1 {
+  border-color: white;
+  border-width: 4px;
+  border-style: solid;
 }
 
 h2 {
